@@ -1,0 +1,25 @@
+/* Geral */
+
+
+/* Sessao da View */
+.sessTit {
+    padding-top: 10px; 
+    padding-bottom: 3px;
+    margin-right: 25px;
+}
+.sessMargin {
+    margin-left: 10px; 
+    margin-right: 15px
+  }
+  
+.boxligth {
+   min-height: 480px; 
+   background-color: #fff; 
+   padding: 20px; 
+   border-left: 2px solid #dee2e6;
+   border-right: 2px solid #dee2e6;
+   border-bottom: 2px solid #dee2e6;
+   border-radius: 6px;
+}   
+
+
